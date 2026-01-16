@@ -25,7 +25,7 @@ El dataset de siempre: [github.com/lgreski/pokemonData](https://github.com/lgres
 ### Dependencias
 * [JFreeChart v1.5.6](https://mvnrepository.com/artifact/org.jfree/jfreechart/1.5.6)
 * [SQLite v3.51.0.0](https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc/3.51.0.0)
-* [Javavlin v6.7.0](https://mvnrepository.com/artifact/io.javalin/javalin/6.7.0)
+* [Javalin v6.7.0](https://mvnrepository.com/artifact/io.javalin/javalin/6.7.0)
 * [SLF4J Simple Provider v2.0.16](https://mvnrepository.com/artifact/org.slf4j/slf4j-simple/2.0.16)
 * [Jackson Databind v2.17.2](https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind/2.17.2)
 
