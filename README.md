@@ -31,4 +31,4 @@ El dataset de siempre: [github.com/lgreski/pokemonData](https://github.com/lgres
 
 
 ## 
-Ver vídeo (próximamente) | [Todas las Katas](https://www.youtube.com/playlist?list=PL_MLZ_QLgMQ8v5oYzwturBAajvCAg-p8c)
+[Ver vídeo](https://www.youtube.com/watch?v=jEyxl0MuCzk) | [Todas las Katas](https://www.youtube.com/playlist?list=PL_MLZ_QLgMQ8v5oYzwturBAajvCAg-p8c)
